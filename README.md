@@ -1,6 +1,6 @@
 ![image](https://github.com/wahbisoussiesprit/wahbisoussiesprit/blob/main/welcome.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Wahbi</h1>
-<h3 align="center">A passionate Software Engineering Student</h3>
+<h3 align="center">A passionate Software Architecture Engineering Student</h3>
 
 - 🔭 I’m currently working on **Building On CI/CD Pipeline**
 
